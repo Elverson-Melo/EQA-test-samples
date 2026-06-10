@@ -1,0 +1,14 @@
+synthetic_genome_001	0	20	amplicon_001_LEFT	0	+
+synthetic_genome_001	380	400	amplicon_001_RIGHT	0	-
+synthetic_genome_001	300	320	amplicon_002_LEFT	0	+
+synthetic_genome_001	680	700	amplicon_002_RIGHT	0	-
+synthetic_genome_001	600	620	amplicon_003_LEFT	0	+
+synthetic_genome_001	980	1000	amplicon_003_RIGHT	0	-
+synthetic_genome_001	900	920	amplicon_004_LEFT	0	+
+synthetic_genome_001	1280	1300	amplicon_004_RIGHT	0	-
+synthetic_genome_001	1200	1220	amplicon_005_LEFT	0	+
+synthetic_genome_001	1580	1600	amplicon_005_RIGHT	0	-
+synthetic_genome_001	1500	1520	amplicon_006_LEFT	0	+
+synthetic_genome_001	1880	1900	amplicon_006_RIGHT	0	-
+synthetic_genome_001	1600	1620	amplicon_007_LEFT	0	+
+synthetic_genome_001	1980	2000	amplicon_007_RIGHT	0	-
